@@ -51,10 +51,25 @@
 .categories img {
     width: 100px;
 }
-p{
+
+p {
     color: gray;
 }
-.card{
+
+.card {
     border: none;
     box-shadow: 5px 5px 10px lightgray;
+}
+
+footer {
+    text-align: center;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+#subscribe{
+    height: 400px;
+}
+#subscribe h6{
+    color: dimgray;
 }
