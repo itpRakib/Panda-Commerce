@@ -67,9 +67,10 @@ footer {
     margin-bottom: 20px;
 }
 
-#subscribe{
+#subscribe {
     height: 400px;
 }
-#subscribe h6{
+
+#subscribe h6 {
     color: dimgray;
 }
